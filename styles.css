@@ -5,4 +5,7 @@
 	grid-template-columns: repeat(2, 1fr);
 	grid-template-rows: repeat(2, 1fr);
 }
+.item{
+	background-color: red;
+}
 /* Your CSS Code here. */
